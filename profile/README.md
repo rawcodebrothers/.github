@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Raw Code Labs" width="100%" />
+  <img src="./assets/banner.png" alt="Raw Code Brothers" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://rawcodelabs.github.io"><strong>rawcodelabs.github.io</strong></a>
+  <a href="https://rawcodebrothers.github.io"><strong>rawcodebrothers.github.io</strong></a>
 </p>
 
 ---
