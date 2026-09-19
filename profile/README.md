@@ -3,52 +3,56 @@
 </p>
 
 <p align="center">
-  <a href="https://rawcodebrothers.github.io"><strong>rawcodebrothers.github.io</strong></a>
+  <a href="https://rawcodebrothers.github.io/en/"><strong>rawcodebrothers.github.io</strong></a>
+</p>
+
+<p align="center">
+  <strong>English</strong> · <a href="./README.pt-BR.md">Português</a>
 </p>
 
 ---
 
-Estúdio de software em São Paulo. Construímos produtos sob medida para
-empresas e microempreendedores, e ficamos para manter o que entregamos.
+A software studio in São Paulo, Brazil. We build tailored products for
+companies and small businesses, and we stay to maintain what we deliver.
 
-Somos dois engenheiros. Você fala direto com quem escreve o código.
+We are two engineers. You talk straight to the people who write the code.
 
-## O que fazemos
+## What we do
 
-| Frente                   | O que entra                                                     |
-| ------------------------ | --------------------------------------------------------------- |
-| **Produto sob medida**   | Descoberta, escopo escrito, entrega em ciclos curtos             |
-| **Backend e integrações**| APIs, filas, arquitetura orientada a eventos, pagamentos          |
-| **Automação com IA**     | Classificação de documentos, extração de dados, onboarding e KYC |
-| **Resgate de sistema**   | Auditoria, cobertura de testes, migração gradual                 |
+| Line of work                  | What it covers                                                    |
+| ----------------------------- | ----------------------------------------------------------------- |
+| **Tailored products**         | Discovery, written scope, delivery in short cycles                 |
+| **Backend and integrations**  | APIs, queues, event driven architecture, payments                  |
+| **AI automation**             | Document classification, data extraction, onboarding and KYC       |
+| **System rescue**             | Technical audit, test coverage, gradual migration                  |
 
-## Como trabalhamos
+## How we work
 
-**`init()`** Escopo escrito, com o que entra e o que fica de fora. Preço e
-prazo fechados antes de começar.
+**`init()`** A written scope, with what is in and what is out. Price and
+deadline agreed before we start.
 
-**`build()`** Ambiente no ar desde a primeira semana. Você usa o que já está
-pronto e corrige o rumo enquanto ainda é barato.
+**`build()`** A live environment from the first week. You use what is ready
+and correct the course while it is still cheap.
 
-**`ship()`** Testes automatizados e monitoramento de erros desde o primeiro
-dia. A gente descobre a falha antes de você.
+**`ship()`** Automated tests and error monitoring from day one. We find the
+failure before you do.
 
-## No que acreditamos
+## What we believe
 
-- Tipagem de ponta a ponta, do banco até a tela
-- Testes automatizados como parte da entrega, não como fase final
-- Observabilidade desde o primeiro deploy
-- Código que a próxima pessoa consiga ler
+- End to end type safety, from the database to the screen
+- Automated tests as part of delivery, not as a final phase
+- Observability from the first deploy
+- Code the next person can read
 
-## Quem está por trás
+## Who is behind it
 
 | | |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/29005352?v=4&s=64" width="48" /> | **[Simão Júnior](https://github.com/simaojunior)** — Engenheiro backend sênior. TypeScript, Node.js, Elixir e PostgreSQL. [simaojunior.dev](https://simaojunior.dev) |
-| <img src="https://avatars.githubusercontent.com/u/279344?v=4&s=64" width="48" /> | **[Fabiano Leite](https://github.com/fabianoleittes)** — Engenheiro de software há mais de quinze anos, focado em arquitetura de sistemas. [amentedotatame.com](https://amentedotatame.com) |
+| <img src="https://avatars.githubusercontent.com/u/29005352?v=4&s=64" width="48" /> | **[Simão Júnior](https://github.com/simaojunior)** — Senior backend engineer. TypeScript, Node.js, Elixir and PostgreSQL. [simaojunior.dev](https://simaojunior.dev) |
+| <img src="https://avatars.githubusercontent.com/u/279344?v=4&s=64" width="48" /> | **[Fabiano Leite](https://github.com/fabianoleittes)** — Software engineer for more than fifteen years, focused on systems architecture. [amentedotatame.com](https://amentedotatame.com) |
 
-## Falar com o time
+## Talk to the team
 
-Conte o problema. A gente responde com o escopo, o prazo e o preço.
+Tell us the problem. We answer with the scope, the deadline and the price.
 
 **[simao.msjr@gmail.com](mailto:simao.msjr@gmail.com)**
